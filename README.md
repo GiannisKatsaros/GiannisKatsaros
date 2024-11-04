@@ -31,7 +31,7 @@ Software Engineer
   
 * ### My GitHub Stats
 
-  <ul style="list-style-type:none;">
+  <ul style="list-style-type:none">
     <li>
       <a
         href="http://www.github.com/GiannisKatsaros">
