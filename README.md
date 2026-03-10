@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA1B5&width=435&lines=Hi%2C+I+am+Katsaros+Ioannis+Dimitrios+(aka+Kid);Senior+Backend+Developer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAEC3&width=435&lines=Hi%2C+I+am+Katsaros+Ioannis+Dimitrios;Aka+Kid;Senior+Backend+Software+Engineer)](https://git.io/typing-svg)
 ====================================================================================================================================================
 
 Software Engineer
