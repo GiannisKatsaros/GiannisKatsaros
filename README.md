@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2CAEC3&width=435&lines=Hi%2C+I+am+Katsaros+Ioannis+Dimitrios;Aka+Kid;Senior+Backend+Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Jetbrains+Mono&size=28&pause=1000&color=2CAEC3&width=600&lines=Hi%2C+I+am+Katsaros+Ioannis+Dimitrios;Aka+Kid;Senior+Software+Engineer)](https://git.io/typing-svg)
 ====================================================================================================================================================
 
-Software Engineer
------------------
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,py,postgres,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ts,react,css,wasm)](https://skillicons.dev)
 
 *   🌍  I'm based in Athens, Greece
 *   ✉️  You can contact me at [katsaros97g@gmail.com](mailto:katsaros97g@gmail.com)
