@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Ioannis Dimitrios L Katsaros
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2AA1B5&width=435&lines=Hi%2C+I+am+Katsaros+Ioannis+Dimitrios+(aka+Kid);Senior+Backend+Developer)](https://git.io/typing-svg)
 ====================================================================================================================================================
 
 Software Engineer
